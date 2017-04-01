@@ -1,0 +1,10 @@
+node_modules
+packages
+bin
+bld
+.vs
+.vscode/chrome
+*.user
+**/*.js
+**/*.js.map
+!**/*.config*js

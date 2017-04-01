@@ -1,0 +1,1 @@
+Angular2 HWA Quickstart=================Based off of the [Angular2VisualStudioTemplate](https://github.com/Burgyn/Angular2VisualStudioTemplate) by Miňo Martiniak.Setup to run as a Universal Web App on Windows 10.Run *npm install* to pull dependencies before opening project.
