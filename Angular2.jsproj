@@ -2216,7 +2216,6 @@
     <Content Include="node_modules\browser-sync\node_modules\rx\license.txt" />
     <Content Include="node_modules\browser-sync\node_modules\rx\package.json" />
     <Content Include="node_modules\browser-sync\node_modules\rx\readme.md" />
-    <Content Include="node_modules\browser-sync\node_modules\rx\ts\tsconfig.oldjson" />
     <Content Include="node_modules\browser-sync\node_modules\socket.io-client\History.md" />
     <Content Include="node_modules\browser-sync\node_modules\socket.io-client\lib\index.js" />
     <Content Include="node_modules\browser-sync\node_modules\socket.io-client\lib\manager.js" />
@@ -8977,7 +8976,6 @@
     <Content Include="node_modules\protractor\node_modules\webdriver-manager\README.md" />
     <Content Include="node_modules\protractor\package.json" />
     <Content Include="node_modules\protractor\README.md" />
-    <Content Include="node_modules\protractor\tsconfig.oldjson" />
     <Content Include="node_modules\protractor\tslint.json" />
     <Content Include="node_modules\punycode\LICENSE-MIT.txt" />
     <Content Include="node_modules\punycode\package.json" />
